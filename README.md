@@ -24,3 +24,6 @@ click select folder
 then enable it
 
 visit twitter.com or x.com and the logo is back to the bird
+
+
+here is a youtube video if you don't understand https://youtu.be/pfGQMA4DMbw
